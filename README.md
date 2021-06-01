@@ -3,12 +3,12 @@
 ![İmg](https://github.com/erolemre1/creating_bubbles/blob/main/bubblee_1.gif)
 
 ## Installation
-Öncelikle projeyi clonelayın. 
+Clone the project.
 ```
 git clone https://github.com/erolemre1/creating_bubbles.git
 ```
 
 ## Usage
 
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+After cloning the project, open it in Visual Studio Code.
 
