@@ -3,7 +3,7 @@
 ![İmg](https://github.com/erolemre1/creating_bubbles/blob/main/bubblee_1.gif)
 
 ## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. 
 ```
 git clone https://github.com/erolemre1/creating_bubbles.git
 ```
